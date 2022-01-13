@@ -55,3 +55,5 @@
 [2022-01-13 17:00:04.865] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/syomkinyaroslav2)
 [2022-01-13 17:00:04.865] [remoteagent] [error] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
 [2022-01-13 17:05:03.586] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-01-13 17:29:00.698] [remoteagent] [info] [127.0.0.1][143138ed][ManagementConnection] The client has reconnected.
+[2022-01-13 17:29:21.385] [remoteagent] [info] [127.0.0.1][3fc68437][ExtensionHostConnection] The client has reconnected.

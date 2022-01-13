@@ -8,3 +8,4 @@
 [2022-01-13 17:00:05.302] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
 [2022-01-13 17:00:05.306] [exthost] [info] Eager extensions activated
 [2022-01-13 17:00:05.606] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4361
+[2022-01-13 17:29:21.626] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4361
