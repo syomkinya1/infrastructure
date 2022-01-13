@@ -1,0 +1,74 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 45169
+
+[16:44:41] Extension host agent started.
+[16:44:44] [127.0.0.1][474d4365][ManagementConnection] New connection established.
+[16:44:44] [127.0.0.1][1b3fbdee][ExtensionHostConnection] New connection established.
+[16:44:44] [127.0.0.1][1b3fbdee][ExtensionHostConnection] <2340> Launched Extension Host Process.
+[16:44:45] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/syomkinyaroslav2)
+[16:44:45] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[16:44:45] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/syomkinyaroslav2)
+[16:44:45] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[16:44:46] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/syomkinyaroslav2)
+[16:44:46] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[16:44:46] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/syomkinyaroslav2)
+[16:44:46] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[16:44:46] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/syomkinyaroslav2)
+[16:44:46] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[16:44:47] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/syomkinyaroslav2)
+[16:44:47] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
+rejected promise not handled within 1 second: Error: Could not find pty with id "4"
+stack trace: Error: Could not find pty with id "4",    at l._throwIfNoPty (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateIcon (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1651),    at Object.call (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[Error: Could not find pty with id "4",    at l._throwIfNoPty (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateIcon (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1651),    at Object.call (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)]
+rejected promise not handled within 1 second: Error: Could not find pty with id "4"
+stack trace: Error: Could not find pty with id "4",    at l._throwIfNoPty (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateTitle (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1591),    at Object.call (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[Error: Could not find pty with id "4",    at l._throwIfNoPty (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateTitle (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1591),    at Object.call (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/syomkinyaroslav2/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)]
+[16:51:49] No ptyHost heartbeat after 6 seconds
+[16:55:23] [127.0.0.1][474d4365][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[16:55:23] [127.0.0.1][1b3fbdee][ExtensionHostConnection] <2340> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[16:55:23] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[16:59:53] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[16:59:53] Cancelling previous shutdown timeout
+[16:59:53] [127.0.0.1][a7436549][ManagementConnection] New connection established.
+[16:59:53] [127.0.0.1][9cc492f2][ExtensionHostConnection] New connection established.
+[16:59:53] [127.0.0.1][9cc492f2][ExtensionHostConnection] <3041> Launched Extension Host Process.
+[17:00:00] [127.0.0.1][a7436549][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[17:00:00] [127.0.0.1][9cc492f2][ExtensionHostConnection] <3041> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[17:00:00] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[17:00:00] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[17:00:03] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[17:00:03] Cancelling previous shutdown timeout
+[17:00:03] [127.0.0.1][143138ed][ManagementConnection] New connection established.
+[17:00:03] [127.0.0.1][3fc68437][ExtensionHostConnection] New connection established.
+[17:00:03] [127.0.0.1][3fc68437][ExtensionHostConnection] <3134> Launched Extension Host Process.
+[17:00:04] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/syomkinyaroslav2)
+[17:00:04] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[17:00:04] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/syomkinyaroslav2)
+[17:00:04] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[17:00:04] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/syomkinyaroslav2)
+[17:00:04] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[17:00:04] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/syomkinyaroslav2)
+[17:00:04] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[17:00:04] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/syomkinyaroslav2)
+[17:00:04] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[17:00:04] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/syomkinyaroslav2)
+[17:00:04] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
+[IPC Library: Pty Host]  INFO Persistent process "11": Replaying 148 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "12": Replaying 123 chars and 1 size events
+New EH opened, aborting shutdown
+[17:05:03] New EH opened, aborting shutdown

@@ -1,0 +1,16 @@
+[2022-01-13 10:04:13.750] [exthost] [info] Extension host with pid 2044 started
+[2022-01-13 10:04:13.760] [exthost] [error] Error: EEXIST: file already exists, open '/home/syomkinyaroslav2/.vscode-server/data/User/workspaceStorage/a1b205e9852faafbd9f7d9b1b68256ae/vscode.lock'
+[2022-01-13 10:04:13.772] [exthost] [info] Lock '/home/syomkinyaroslav2/.vscode-server/data/User/workspaceStorage/a1b205e9852faafbd9f7d9b1b68256ae/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-01-13 10:04:13.774] [exthost] [info] Lock '/home/syomkinyaroslav2/.vscode-server/data/User/workspaceStorage/a1b205e9852faafbd9f7d9b1b68256ae/vscode.lock': The pid 2172 appears to be gone.
+[2022-01-13 10:04:13.774] [exthost] [info] Lock '/home/syomkinyaroslav2/.vscode-server/data/User/workspaceStorage/a1b205e9852faafbd9f7d9b1b68256ae/vscode.lock': Deleting a stale lock.
+[2022-01-13 10:04:13.790] [exthost] [info] Lock '/home/syomkinyaroslav2/.vscode-server/data/User/workspaceStorage/a1b205e9852faafbd9f7d9b1b68256ae/vscode.lock': Lock acquired.
+[2022-01-13 10:04:13.889] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-13 10:04:13.915] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-13 10:04:13.976] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-01-13 10:04:14.223] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-13 10:04:14.579] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-13 10:04:14.643] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-13 10:04:14.655] [exthost] [info] Eager extensions activated
+[2022-01-13 10:05:48.994] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-01-13 10:05:48.994] [exthost] [info] Lock '/home/syomkinyaroslav2/.vscode-server/data/User/workspaceStorage/a1b205e9852faafbd9f7d9b1b68256ae/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-01-13 10:05:49.002] [exthost] [info] Extension host with pid 2044 exiting with code 0

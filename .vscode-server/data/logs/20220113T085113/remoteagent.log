@@ -1,0 +1,36 @@
+[2022-01-13 08:51:13.986] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-01-13 08:51:13.986] [remoteagent] [info] Extension host agent started.
+[2022-01-13 08:51:14.700] [remoteagent] [error] [127.0.0.1][787babbe][ManagementConnection] Unknown reconnection token (never seen).
+[2022-01-13 08:56:21.728] [remoteagent] [info] [127.0.0.1][8eef0629][ManagementConnection] New connection established.
+[2022-01-13 08:56:21.739] [remoteagent] [info] [127.0.0.1][b2c77f18][ExtensionHostConnection] New connection established.
+[2022-01-13 08:56:21.746] [remoteagent] [info] [127.0.0.1][b2c77f18][ExtensionHostConnection] <2079> Launched Extension Host Process.
+[2022-01-13 08:56:32.002] [remoteagent] [info] [127.0.0.1][8eef0629][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-13 08:56:32.040] [remoteagent] [info] [127.0.0.1][b2c77f18][ExtensionHostConnection] <2079> Extension Host Process exited with code: 0, signal: null.
+[2022-01-13 08:56:32.041] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-01-13 08:56:35.237] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-01-13 08:56:35.237] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-01-13 08:56:35.444] [remoteagent] [info] [127.0.0.1][aba3175b][ManagementConnection] New connection established.
+[2022-01-13 08:56:35.445] [remoteagent] [info] [127.0.0.1][d71da15a][ExtensionHostConnection] New connection established.
+[2022-01-13 08:56:35.458] [remoteagent] [info] [127.0.0.1][d71da15a][ExtensionHostConnection] <2172> Launched Extension Host Process.
+[2022-01-13 08:56:36.502] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[2022-01-13 08:56:36.503] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-13 08:56:36.747] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[2022-01-13 08:56:36.747] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-13 08:56:37.032] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[2022-01-13 08:56:37.034] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-13 08:56:37.259] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[2022-01-13 08:56:37.260] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-13 08:56:37.487] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[2022-01-13 08:56:37.488] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-13 08:56:37.954] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[2022-01-13 08:56:37.955] [remoteagent] [error] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
+[2022-01-13 09:01:35.240] [remoteagent] [info] New EH opened, aborting shutdown

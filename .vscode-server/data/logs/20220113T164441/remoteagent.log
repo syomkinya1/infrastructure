@@ -1,0 +1,57 @@
+[2022-01-13 16:44:41.864] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-01-13 16:44:41.864] [remoteagent] [info] Extension host agent started.
+[2022-01-13 16:44:44.197] [remoteagent] [info] [127.0.0.1][474d4365][ManagementConnection] New connection established.
+[2022-01-13 16:44:44.202] [remoteagent] [info] [127.0.0.1][1b3fbdee][ExtensionHostConnection] New connection established.
+[2022-01-13 16:44:44.228] [remoteagent] [info] [127.0.0.1][1b3fbdee][ExtensionHostConnection] <2340> Launched Extension Host Process.
+[2022-01-13 16:44:45.455] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/syomkinyaroslav2)
+[2022-01-13 16:44:45.456] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-13 16:44:45.890] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/syomkinyaroslav2)
+[2022-01-13 16:44:45.892] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-13 16:44:46.409] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/syomkinyaroslav2)
+[2022-01-13 16:44:46.410] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-13 16:44:46.641] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/syomkinyaroslav2)
+[2022-01-13 16:44:46.641] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-13 16:44:46.905] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/syomkinyaroslav2)
+[2022-01-13 16:44:46.907] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-13 16:44:47.533] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/syomkinyaroslav2)
+[2022-01-13 16:44:47.534] [remoteagent] [error] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
+[2022-01-13 16:51:49.495] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-01-13 16:55:23.643] [remoteagent] [info] [127.0.0.1][474d4365][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-13 16:55:23.824] [remoteagent] [info] [127.0.0.1][1b3fbdee][ExtensionHostConnection] <2340> Extension Host Process exited with code: 0, signal: null.
+[2022-01-13 16:55:23.825] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-01-13 16:59:53.789] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-01-13 16:59:53.789] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-01-13 16:59:53.920] [remoteagent] [info] [127.0.0.1][a7436549][ManagementConnection] New connection established.
+[2022-01-13 16:59:53.922] [remoteagent] [info] [127.0.0.1][9cc492f2][ExtensionHostConnection] New connection established.
+[2022-01-13 16:59:53.944] [remoteagent] [info] [127.0.0.1][9cc492f2][ExtensionHostConnection] <3041> Launched Extension Host Process.
+[2022-01-13 17:00:00.531] [remoteagent] [info] [127.0.0.1][a7436549][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-13 17:00:00.554] [remoteagent] [info] [127.0.0.1][9cc492f2][ExtensionHostConnection] <3041> Extension Host Process exited with code: 0, signal: null.
+[2022-01-13 17:00:00.555] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-01-13 17:00:00.555] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-01-13 17:00:03.585] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-01-13 17:00:03.585] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-01-13 17:00:03.661] [remoteagent] [info] [127.0.0.1][143138ed][ManagementConnection] New connection established.
+[2022-01-13 17:00:03.678] [remoteagent] [info] [127.0.0.1][3fc68437][ExtensionHostConnection] New connection established.
+[2022-01-13 17:00:03.684] [remoteagent] [info] [127.0.0.1][3fc68437][ExtensionHostConnection] <3134> Launched Extension Host Process.
+[2022-01-13 17:00:04.126] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/syomkinyaroslav2)
+[2022-01-13 17:00:04.126] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-13 17:00:04.237] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/syomkinyaroslav2)
+[2022-01-13 17:00:04.238] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-13 17:00:04.325] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/syomkinyaroslav2)
+[2022-01-13 17:00:04.325] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-13 17:00:04.430] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/syomkinyaroslav2)
+[2022-01-13 17:00:04.431] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-13 17:00:04.565] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/syomkinyaroslav2)
+[2022-01-13 17:00:04.565] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-13 17:00:04.865] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/syomkinyaroslav2)
+[2022-01-13 17:00:04.865] [remoteagent] [error] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
+[2022-01-13 17:05:03.586] [remoteagent] [info] New EH opened, aborting shutdown

@@ -1,0 +1,14 @@
+[2022-01-13 12:25:31.537] [exthost] [info] Extension host with pid 1909 started
+[2022-01-13 12:25:31.538] [exthost] [error] Error: EEXIST: file already exists, open '/home/syomkinyaroslav2/.vscode-server/data/User/workspaceStorage/fc91293ca5544d672317a550379328b4/vscode.lock'
+[2022-01-13 12:25:31.541] [exthost] [info] Lock '/home/syomkinyaroslav2/.vscode-server/data/User/workspaceStorage/fc91293ca5544d672317a550379328b4/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-01-13 12:25:31.542] [exthost] [info] Lock '/home/syomkinyaroslav2/.vscode-server/data/User/workspaceStorage/fc91293ca5544d672317a550379328b4/vscode.lock': The pid 1858 appears to be gone.
+[2022-01-13 12:25:31.542] [exthost] [info] Lock '/home/syomkinyaroslav2/.vscode-server/data/User/workspaceStorage/fc91293ca5544d672317a550379328b4/vscode.lock': Deleting a stale lock.
+[2022-01-13 12:25:31.547] [exthost] [info] Lock '/home/syomkinyaroslav2/.vscode-server/data/User/workspaceStorage/fc91293ca5544d672317a550379328b4/vscode.lock': Lock acquired.
+[2022-01-13 12:25:31.632] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-13 12:25:31.648] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-13 12:25:31.732] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-01-13 12:25:31.807] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-13 12:25:31.971] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-13 12:25:32.018] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-13 12:25:32.026] [exthost] [info] Eager extensions activated
+[2022-01-13 13:03:18.468] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
